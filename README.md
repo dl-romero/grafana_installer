@@ -1,5 +1,5 @@
 # Grafana Installer
-For Redhat based Operating systems only Ex: Redhat, RHEL, CentOS, Rocky, Fedora.<BR>
+For Redhat based Operating systems only Ex: Redhat (RHEL), CentOS, Rocky, Fedora.<BR>
 This script will download the Grafana GPG key, adds the repo to Yum and triggers the installation.
 
 #### Installation Instructions
